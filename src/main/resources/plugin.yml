@@ -1,0 +1,6 @@
+name: RetroKits
+version: ${project.version}
+main: com.github.sanctum.kits.RetroKits
+api-version: 1.13
+depend: [ Labyrinth ]
+authors: [ Hempfest ]
